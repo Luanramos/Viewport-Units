@@ -17,7 +17,7 @@ header {
   height: 100vh;
   overflow: hidden;
   position: relative;
-  background: #3d3d3d url(head.jpg);
+  background: #3d3d3d url(head.JPG);
   -webkit-background-size: cover;
   background-size: cover;
 }
