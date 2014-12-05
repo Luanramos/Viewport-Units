@@ -78,7 +78,7 @@ video {
 
 img { display: block; }
 .box {
-  background: #78C2A9;
+  background: #78C2A9 url(head.JPG) no-repeat 0 0 / cover;
   width: 100vw;
   height: 100vh;
   float: left;
@@ -86,7 +86,7 @@ img { display: block; }
 .box:nth-child(odd) { background: #D4E0BF; }
 .two { 
   width: 50vw; 
-  background: #40829A url(head.JPG) no-repeat 0 0 / cover;
+  background: #40829A;
 }
 .third { 
   width: 10vw; 
